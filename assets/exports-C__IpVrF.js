@@ -1,0 +1,1 @@
+import"./vendor-B8JYvJZ6.js";import{n as e,t}from"./web3-vendor-BfI5KerP.js";export{e as baseAccount,t as safe};
